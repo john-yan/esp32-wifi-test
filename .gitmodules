@@ -1,0 +1,3 @@
+[submodule "components/esp32-wifi"]
+	path = components/esp32-wifi
+	url = git@github.com:john-yan/esp32-wifi.git
